@@ -1,2 +1,2 @@
-###  	**Hey There! 	** :fire:
+###  	**Hey There!** :fire:
 
