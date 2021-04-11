@@ -15,4 +15,4 @@
 
 
  ## 🤜🏻🤛🏻 Support Me
- You can support me and [https://www.buymeacoffee.com/ShamroOoz]() if you want. 🙏🏻.
+ You can support me and [buy a cooffe for me](https://www.buymeacoffee.com/ShamroOoz) if you want. 🙏🏻.
