@@ -1,6 +1,6 @@
 ###  	**Hey There!** :fire:
 
-## I'm shamroz and I'm MERN TACK web developer 😀
+## I'm shamroz and I'm MERN STACK web developer 😀
 
 ### My Focus
 
