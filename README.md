@@ -1,6 +1,6 @@
 ###  	**Hey There!** :fire:
 
-## I'm shamroz and I'm combining web development with business. 😀
+## I'm shamroz and I'm MERN TACK web developer 😀
 
 ### My Focus
 
@@ -10,18 +10,16 @@
 - Also am a big fan of Firebase.
 
 ### My Stack
-<img align="left" alt="HTML" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/html.png?raw=true" />
-<img align="left" alt="CSS" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/css.png?raw=true" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/javascript.png?raw=true" />
-<img align="left" alt="Sass" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/sass.png?raw=true" />
-<img align="left" alt="React" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/react.png?raw=true" />
-<img align="left" alt="Next" width="26px" src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/gatsby.png?raw=true" />
-<img align="left" alt="GraphQL" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/graphql.png?raw=true" />
-<img align="left" alt="Node" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/node.jpg?raw=true" />
-<img align="left" alt="Firebase" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/firebase-1-logo-pngrepo-com.png?raw=true" />
-<img align="left" alt="Contentful" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/472182.png?raw=true" />
-<img align="left" alt="VS-Code" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/visual-studio-code.png?raw=true" /><br/><br/>
+<img align="left" alt="HTML" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/html.png?raw=true" />
+<img align="left" alt="CSS" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/css.png?raw=true" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/javascript.png?raw=true" />
+<img align="left" alt="React" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/react.png?raw=true" />
+<img align="left" alt="Next" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/nextjs.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/graphql.png?raw=true" />
+<img align="left" alt="Node" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/node.jpg?raw=true" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/firebase-1-logo-pngrepo-com.png?raw=true" />
+<img align="left" alt="Contentful" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/472182.png?raw=true" />
+<img align="left" alt="VS-Code" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/visual-studio-code.png?raw=true" /><br/><br/>
 
 
 
