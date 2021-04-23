@@ -1,13 +1,13 @@
 ###  	**Hey There!** :fire:
 
-## I'm shamroz and I'm MERN STACK web developer 😀
+## I'm shamroz and my stack MERNSTACK & JAMSTACK 😀
 
 ### My Focus
 
-- I'm a full-stack developer passionate about working with MERN STACK.
+- I'm a full-stack developer passionate about working with MERN STACK & JAMSTACK.
 - When I build websites I use Next.js with my SEO experience.
 - When I build web-apps forntend I use React with Material UI,Tailwind css ,React Bootstrap or React admin.
-- Also am a big fan of Firebase.
+- Also am a big fan of Firebase and serverless function.
 
 ### My Stack
 <img align="left" alt="HTML" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/html.png?raw=true" />
