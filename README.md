@@ -13,11 +13,14 @@
 <img align="left" alt="HTML" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/html.png?raw=true" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/css.png?raw=true" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/javascript.png?raw=true" />
+<img align="left" alt="React" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/mongodb.png?raw=true" />
+<img align="left" alt="React" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/express-js.png?raw=true" />
+<img align="left" alt="Node" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/node.jpg?raw=true" />
 <img align="left" alt="React" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/react.png?raw=true" />
 <img align="left" alt="Next" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/nextjs.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/graphql.png?raw=true" />
-<img align="left" alt="Node" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/node.jpg?raw=true" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/firebase-1-logo-pngrepo-com.png?raw=true" />
+<img align="left" alt="Contentful" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/strapi.png?raw=true" />
 <img align="left" alt="Contentful" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/472182.png?raw=true" />
 <img align="left" alt="VS-Code" width="26px" src="https://github.com/ShamroOoz/ShamroOoz/blob/main/profile/visual-studio-code.png?raw=true" /><br/><br/>
 
